@@ -1,5 +1,1 @@
-layout : título do slide
- : " Bem-vindo ao nosso segundo slide! "
----
-Seu texto 
-Use a seta para a esquerda para voltar!
+:! [Imagem de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
